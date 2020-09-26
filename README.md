@@ -71,6 +71,10 @@ docker exec -it zenn-env_zenn_1 zenn preview
 * [Zenn CLIをインストールする](https://zenn.dev/zenn/articles/install-zenn-cli)
 * [Zenn CLIを使ってコンテンツを作成する](https://zenn.dev/zenn/articles/zenn-cli-guide)
 <br><br>
+
+* [ZennのMarkdown記法](https://zenn.dev/zenn/articles/markdown-guide)
+<br><br>
+
 * [Zennのドキュメント用リポジトリ](https://github.com/zenn-dev/zenn-docs)
 
 
